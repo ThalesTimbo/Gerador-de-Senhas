@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerador de Senhas Fortes</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Gerador de Senhas Fortes</h1>
+        <div class="password-box">
+            <input type="text" id="password" readonly>
+            <button id="copyBtn">Copiar</button>
+        </div>
+        <div class="options">
+            <div class="option">
+                <label for="length">Tamanho da senha:</label>
+                <input type="number" id="length" min="8" max="32" value="12">
+            </div>
+            <div class="option">
+                <label>
+                    <input type="checkbox" id="uppercase" checked>
+                    Letras maiúsculas
+                </label>
+            </div>
+            <div class="option">
+                <label>
+                    <input type="checkbox" id="lowercase" checked>
+                    Letras minúsculas
+                </label>
+            </div>
+            <div class="option">
+                <label>
+                    <input type="checkbox" id="numbers" checked>
+                    Números
+                </label>
+            </div>
+            <div class="option">
+                <label>
+                    <input type="checkbox" id="symbols" checked>
+                    Símbolos
+                </label>
+            </div>
+        </div>
+        <button id="generateBtn">Gerar Senha</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html> 
