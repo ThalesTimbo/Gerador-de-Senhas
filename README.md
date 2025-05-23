@@ -34,6 +34,12 @@ O **Gerador de Senhas Fortes** é uma aplicação web simples e responsiva que p
 
 ---
 
+## 📚 Contexto
+
+Este projeto foi desenvolvido como parte de uma **prova prática** no **segundo ano / segundo semestre** da disciplina de **Programação Web**.
+
+---
+
 
 ## 🎨 Autor
 
