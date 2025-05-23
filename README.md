@@ -37,7 +37,7 @@ O **Gerador de Senhas Fortes** é uma aplicação web simples e responsiva que p
 
 ## 🎨 Autor
 
-Feito com 💙 por [Seu Nome]
+Feito com 💙 por Thales
 
 📱 Instagram: [@thales_timbo]([https://www.instagram.com/seu_usuario](https://www.instagram.com/thales_timbo/))
 
