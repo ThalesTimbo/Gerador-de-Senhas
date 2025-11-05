@@ -2,8 +2,6 @@
 
 O **Gerador de Senhas Fortes** é uma aplicação web simples e responsiva que permite criar senhas seguras de forma personalizada. Com uma interface moderna e intuitiva, você pode definir o tamanho da senha e escolher os tipos de caracteres que deseja incluir.
 
-👉 Deploy: [Gerador de Senhas Fortes no Netlify](https://6830a7897908349514ca6d84--mellow-tiramisu-d1560e.netlify.app/)
-
 ---
 
 ## 🛠️ Tecnologias
